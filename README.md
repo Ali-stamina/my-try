@@ -1,2 +1,6 @@
 # my-try
-Some projects, samples, tries.
+## Парк "Краснодар"
+>
+____
+Сделано по видеоуроку WebDesign Master >https://www.youtube.com/@wdm
+
